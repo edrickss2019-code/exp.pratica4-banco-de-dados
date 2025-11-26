@@ -1,8 +1,8 @@
 -- Inserindo DOADOR
 INSERT INTO DOADOR VALUES
-(1, 'João Silva', 'Pessoa', '11995550101', 'joao@gmail.com', 'Rua das Flores, 120'),
-(2, 'Igreja Esperança', 'Grupo', '11994440202', 'contato@esperanca.org', 'Av Central, 450'),
-(3, 'Maria Santos', 'Pessoa', '11993330303', 'maria@yahoo.com', 'Rua A, 78');
+(1, 'Fulano da Silva', 'Pessoa', '11995550101', 'fulano@gmail.com', 'Rua J, 120'),
+(2, 'Igreja Esperança', 'Grupo', '11994440202', 'contato@esperanca.org', 'Av C, 450'),
+(3, 'Ciclana Santos', 'Pessoa', '11993330303', 'ciclana@yahoo.com', 'Rua A, 78');
 
 -- Inserindo CAMPANHA
 INSERT INTO CAMPANHA VALUES
@@ -11,8 +11,8 @@ INSERT INTO CAMPANHA VALUES
 
 -- Inserindo FAMÍLIA BENEFICIADA
 INSERT INTO FAMILIA_BENEFICIADA VALUES
-(1, 'Carlos Pereira', '11997777888', 'Rua das Oliveiras, 10', 4, 'Baixa renda'),
-(2, 'Ana Souza', '11996666777', 'Rua Horizonte Azul, 45', 3, 'Situação vulnerável');
+(1, 'Beltrano Pereira', '11997777888', 'Rua das Oliveiras, 10', 4, 'Baixa renda'),
+(2, 'Felisbina', '11996666777', 'Rua Horizonte Azul, 45', 3, 'Situação vulnerável');
 
 -- Inserindo DOAÇÃO
 INSERT INTO DOACAO VALUES
