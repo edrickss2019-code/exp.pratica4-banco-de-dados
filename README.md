@@ -16,3 +16,5 @@ Este repositório contém os scripts SQL desenvolvidos para a Experiência Prát
 ## ▶ Como executar
 1. Crie um banco de dados:
 ```sql
+CREATE DATABASE ong;
+USE ong;
